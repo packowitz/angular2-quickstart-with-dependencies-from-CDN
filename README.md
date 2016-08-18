@@ -36,16 +36,16 @@ systemjs.config.js
 make the dependencies load as bundle from https://npmcdn.com/ too.
 Instead of '@angular': 'node_modules/@angular' you have to name all modules from angular and give the https://npmcdn.com/... path
 
-'@angular/common': 'https://npmcdn.com/@angular/common@2.0.0-rc.4',
-'@angular/compiler': 'https://npmcdn.com/@angular/compiler@2.0.0-rc.4',
-'@angular/core': 'https://npmcdn.com/@angular/core@2.0.0-rc.4',
-'@angular/forms': 'https://npmcdn.com/@angular/forms@0.2.0',
-'@angular/http': 'https://npmcdn.com/@angular/http@2.0.0-rc.4',
-'@angular/platform-browser': 'https://npmcdn.com/@angular/platform-browser@2.0.0-rc.4',
-'@angular/platform-browser-dynamic': 'https://npmcdn.com/@angular/platform-browser-dynamic@2.0.0-rc.4',
-'@angular/router': 'https://npmcdn.com/@angular/router@3.0.0-beta.1',
+'@angular/common': 'https://npmcdn.com/@angular/common@2.0.0-rc.5',
+'@angular/compiler': 'https://npmcdn.com/@angular/compiler@2.0.0-rc.5',
+'@angular/core': 'https://npmcdn.com/@angular/core@2.0.0-rc.5',
+'@angular/forms': 'https://npmcdn.com/@angular/forms@0.3.0',
+'@angular/http': 'https://npmcdn.com/@angular/http@2.0.0-rc.5',
+'@angular/platform-browser': 'https://npmcdn.com/@angular/platform-browser@2.0.0-rc.5',
+'@angular/platform-browser-dynamic': 'https://npmcdn.com/@angular/platform-browser-dynamic@2.0.0-rc.5',
+'@angular/router': 'https://npmcdn.com/@angular/router@3.0.0-rc.1',
 '@angular/router-deprecated': 'https://npmcdn.com/@angular/router-deprecated@2.0.0-rc.2',
-'@angular/upgrade': 'https://npmcdn.com/@angular/upgrade@2.0.0-rc.4',
+'@angular/upgrade': 'https://npmcdn.com/@angular/upgrade@2.0.0-rc.5',
 'angular2-in-memory-web-api': 'node_modules/angular2-in-memory-web-api',
 'rxjs': 'https://npmcdn.com/rxjs@5.0.0-beta.6'
 ```
